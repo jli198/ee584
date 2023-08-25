@@ -1,5 +1,7 @@
 # EE 584 - Wireless Systems Security
 
+![Transparent Stevens Logo](stevenslogo.png)
+
 ## Resources
 
 Title: Wireless Security - Models, Threats, and Solutions </br>
