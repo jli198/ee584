@@ -2,7 +2,7 @@
 
 EE 584 Wireless Systems Security consisted of 3 Papers, a Course Final Project Paper with Presentation, and Participation in Case Studies. </br>
 </br>
-Each of the Papers went beyond the threshold and each scored above a 100%.
+Each of the Papers went beyond the threshold and each scored above a 100% and were the highest grades in that semester.
 
 * Paper 1 (Wireless Technical Paper): 12.33/10
 * Paper 2 (Security Technical Paper): 13.67/10
