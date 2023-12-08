@@ -1,4 +1,4 @@
-# EE 584 - Papers
+# EE 584 - Papers (Please)
 
 EE 584 Wireless Systems Security consisted of 3 Papers, a Course Final Project Paper with Presentation, and Participation in Case Studies. </br>
 </br>
